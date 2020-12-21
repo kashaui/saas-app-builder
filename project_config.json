@@ -1,15 +1,15 @@
 {
-    "appName":"",
-    "purchaseCode":"",
-    "adminEmail":"",
+    "appName":"Kasha SaaS Buildet",
+    "purchaseCode":"0429df23-9084-4049-ae5b-23158393a8fB",
+    "adminEmail":"admin@kasha.co.za",
     "firebaseConfig":{
-        "apiKey": "",
-        "authDomain": "",
-        "databaseURL": "",
-        "projectId": "",
-        "storageBucket": "",
-        "messagingSenderId": "",
-        "appId": ""
+        "apiKey": "AIzaSyCtNYh4h-M5M304yrp7Uh_lIpDOUANLe34",
+        "authDomain": "kasha-app-builder.firebaseapp.com",
+        "databaseURL": "https://kasha-app-builder-default-rtdb.firebaseio.com",
+        "projectId": "kasha-app-builder",
+        "storageBucket": "kasha-app-builder.appspot.com",
+        "messagingSenderId": "527793844007",
+        "appId": "1:527793844007:web:cc24cc50c43be5cd350302"
     },
     "pricing" : {
         "plans" : [{
